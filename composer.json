@@ -1,5 +1,5 @@
 {
-  "name": "vendor-name/package-name",
+  "name": "vendor-name1/package-name",
   "version": "1.0.0",
   "description": "A simple Laravel package.",
   "keywords": [
@@ -19,13 +19,13 @@
   },
   "autoload": {
     "psr-4": {
-      "VendorName\\PackageName\\": "src/"
+      "VendorName1\\PackageName\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "VendorName\\PackageName\\PackageNameServiceProvider"
+        "VendorName1\\PackageName\\PackageNameServiceProvider"
       ]
     }
   },

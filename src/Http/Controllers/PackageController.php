@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\PackageName\Http\Controllers;
+namespace VendorName1\PackageName\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
