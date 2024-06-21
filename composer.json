@@ -1,6 +1,6 @@
 {
   "name": "vendor-name1/package-name",
-  "version": "1.0.0",
+  "version": "dev-main",
   "description": "A simple Laravel package.",
   "keywords": [
     "laravel",

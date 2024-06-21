@@ -11,6 +11,6 @@ return [
     |
     */
 
-    'some_value' => env('SOME_VALUE', 'package value...'),
+    'some_value' => env('SOME_VALUE', 'package some value...'),
 
 ];
